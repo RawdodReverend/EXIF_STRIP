@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# app.py
 
 from flask import Flask, request, send_file, Response, jsonify
 from io import BytesIO
